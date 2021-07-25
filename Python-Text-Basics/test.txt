@@ -1,0 +1,6 @@
+This is my new contentThis is second line of my fileThis is second line of my fileThis is second line of my file
+ This is real new line
+ This is real new line
+This is real new line
+ This is real new line
+ This is real new line
